@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice</string>
+    <string name="button_text">Roll !!</string>
+    <string name="layout_name">Relative Layout</string>
+    <string name="image_view">Las Vegas</string>
+    <string name="image_view_2">Dice 1</string>
+    <string name="image_view_3">Dice 2</string>
+</resources>
